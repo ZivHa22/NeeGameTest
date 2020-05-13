@@ -1,0 +1,7 @@
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\bin\NeoGamesZivHajaj.dll.config
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\bin\NeoGamesZivHajaj.dll
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\bin\NeoGamesZivHajaj.pdb
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\obj\Debug\NeoGamesZivHajaj.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\obj\Debug\NeoGamesZivHajaj.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\obj\Debug\NeoGamesZivHajaj.dll
+C:\Users\home\Desktop\NeoGames\NeoGamesZivHajaj\NeoGamesZivHajaj\obj\Debug\NeoGamesZivHajaj.pdb
